@@ -62,7 +62,8 @@
 
 This repository contains guidelines, kits and various other assets to help you use core brand elements of ReVanced.
 
-> **Note**: Specifications are in their early stage of development and might heavily change a lot in their first revisions.
+> [!NOTE]
+> Specifications are in their early stage of development and might heavily change a lot in their first revisions.
 
 ## 🖼️ ReVanced logo
 
@@ -76,7 +77,21 @@ The ReVanced logo is the most recognizable asset which is why it is important to
 
 ### 🎨 Colors
 
-The ReVanced logo has a triadic gradients which defines its character. The ring as well as the logo feature a top-to-bottom gradient blending the colors <img height="16px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/47723802/243146503-fbc21584-94a5-436b-9277-3c64a72baf97.png"/> `#F04E98`, <img height="16px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/47723802/243146541-fcb07e8d-9ba4-4292-b633-f64a01b80341.png"/> `#5F65D4`, and <img height="16px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/47723802/243146582-18441902-b968-434c-bc40-f78bf975e86c.png"/> `#4E98F0`.
+The ReVanced logo has a triadic gradients which defines its character. The ring as well as the logo feature a top-to-bottom gradient blending the colors 
+
+<picture>
+    <source height="150px" media="(prefers-color-scheme: dark)" srcset="decoration/dark/Pink.png" />
+    <img height="150px" alt="Pink, Primary" src="decoration/Pink.png"/>
+</picture>&nbsp;&nbsp;&nbsp;
+<picture>
+    <source height="150px" media="(prefers-color-scheme: dark)" srcset="decoration/dark/Purple.png" />
+    <img height="150px" alt="Purple, Secondary" src="decoration/Purple.png"/>
+</picture>&nbsp;&nbsp;&nbsp;
+<picture>
+    <source height="150px" media="(prefers-color-scheme: dark)" srcset="decoration/dark/Cyan.png" />
+    <img height="150px" alt="Cyan, Tertiary" src="decoration/Cyan.png"/>
+</picture>
+
 
 The ReVanced logo should appear in single shades of black and white, but the diamond may appear in any color. On a dark background, a light shade and vice versa should be used.
 
@@ -119,7 +134,8 @@ The ReVanced marks include, but are not limited to
 - The ReVanced logo
 - Anything that includes ReVanced in the name
 
-> **Note**: No letter except R and V in "ReVanced" should be capitalized.
+> [!Note]
+> No letter except R and V in "ReVanced" should be capitalized.
 
 ## 📜 ReVanced tagline
 
@@ -128,4 +144,5 @@ The following taglines should be used whenever a slogan, summary, or short descr
 - "Continuing the legacy of Vanced"
 - "Continuing the legacy of Vanced at revanced.app"
 
-> **Note**: The tagline may end with punctuation when necessary.
+> [!Note]
+> The tagline may end with punctuation when necessary.
