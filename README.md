@@ -65,6 +65,34 @@ This repository contains guidelines, kits and other assets to help you use core 
 > [!NOTE]
 > Specifications are in their early stage of development and might heavily change a lot in their first revisions.
 
+## ~☆ReVanchii-chan!☆~
+
+_Stylised as: ~☆ReVanchii-chan!☆~_
+
+ReVanchii-chan (ればんちい-ちゃん in Japanese) is our official mascot, it's the most friendliness, and with the most effective brand visibility compared to other asset. It comes in 2 forms:
+
+- Regular (Anime/Manga style)
+- [Chibi](https://en.wikipedia.org/wiki/Chibi_(style))
+
+ReVanchii-chan
+
+### Regular
+
+### Chibi
+
+### Lore
+
+#### [Introductory]
+
+ReVanchii-chan is lived in the internet, ReVanchii-chan can takes any forms she's like, 
+what make she's special than _any of **those**_ people that lived in the internet, is that
+she cares about your privacy!
+
+#### [Prelude]
+
+She's was created by a scientist who goes by the name "oSumAtrIX"
+
+
 ## 🖼️ ReVanced logo
 
 ### 🚩 The basics
